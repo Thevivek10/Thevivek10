@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Thevivek10
 - 👀 I’m interested in Building Scalable & User-Friendly Apps
 - 🌱 I’m currently learning Full Stack Dev 
-- 💞️ I’m looking to collaborate on Open-source projects
+- 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me
 - Gmail- vivekkumar113x@gmail.com
 - 😄 Pronouns: He/Him

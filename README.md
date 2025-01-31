@@ -5,7 +5,7 @@
 - 📫 How to reach me
 - Gmail- vivekkumar113x@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: love sci-fi movies
 
 <!---
 Thevivek10/Thevivek10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @Thevivek10
-- 👀 I’m interested in Tecnology
-- 🌱 I’m currently learning in Lovely Professional University
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in Building Scalable & User-Friendly Apps
+- 🌱 I’m currently learning Full Stack Dev 
+- 💞️ I’m looking to collaborate on Open-source projects
+- 📫 How to reach me
+- Gmail- vivekkumar113x@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: 
 
 <!---
 Thevivek10/Thevivek10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
